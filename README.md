@@ -4,13 +4,12 @@
 
 Selling merchandise in the modern era requires digital solutions. For this project, you'll be tasked with designing and constructing an online student store for the College of Codepath. The application entails a frontend user interface for potential customers to peruse the goods, and a backend API to handle data management. The API will be built with Node and Express and the UI will be built with React.
 
-<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.loom.com/embed/4fabc9519f4149c6bd0637e056664762" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
 ### Application Features
 
 #### Core Features
 
-- [ x] Displays the following sections: header, banner, search, product grid, about, contact, and footer.
+- [x ] Displays the following sections: header, banner, search, product grid, about, contact, and footer.
 - [ x] On initial page load, display the products at the [GET /store endpoint](https://codepath-store-api.herokuapp.com/store).
 - [ ] User can click on the categories (Clothing, food, etc) to filter the product grid by type.
 - [ ] User can search for products.
@@ -285,15 +284,15 @@ The following specifications were met on the Express backend and the React front
 
 * Did the topics discussed in your labs prepare you to complete the assignment? Be specific, which features in your weekly assignment did you feel unprepared to complete?
 
-Add your response here
+I felt unprepared for this project because I have a hard time understanding how to pass props.
 
 * If you had more time, what would you have done differently? Would you have added additional features? Changed the way your project responded to a particular event, etc.
   
-Add your response here
+If i had more time I would have implemented some stretch features for my site
 
 * Reflect on your project demo, what went well? Were there things that maybe didn't go as planned? Did you notice something that your peer did that you would like to try next time?
 
-Add your response here
+I barely have anything on my page so I couldn't really demo anything.
 
 ### Open-source libraries used
 
